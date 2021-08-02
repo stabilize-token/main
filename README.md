@@ -31,7 +31,7 @@ zs-UST StrategyV3: https://etherscan.io/address/0x4d7Ef4fbC8eD5d30A3f0b8bA282A99
 
 zs-ETH: https://etherscan.io/address/0x93B97BBb3F65EC39ea6041bF92FA998e5434E858
 
-zs-ETH StrategyV2: https://etherscan.io/address/0x6761202163364bc4f7C3816Bef46695930536A3b 
+zs-ETH StrategyV3: https://etherscan.io/address/0x517c8e1d3dE9A366162fA85333EF6cd9BaF1E709
 
 zs-XUSD2: https://etherscan.io/address/0xB5eB7528aCB55480b4221E498834FBc8cCBCd834
 
@@ -52,6 +52,7 @@ zs-AMPL Strategy: https://etherscan.io/address/0x8004Ea2db8D91489E261FAC08199925
 FlashManager Strategy: https://etherscan.io/address/0x9557ef0975e8e921c822a8b81032e695d7ff328c
 
 ### Retired Contracts
+zs-ETH StrategyV2: https://etherscan.io/address/0x6761202163364bc4f7C3816Bef46695930536A3b 
 
 zs-USD StrategyV4: https://etherscan.io/address/0x5aA476685133f1dBfad5D6A02d991f94d33322D0
 
