@@ -47,11 +47,11 @@ zs-tsBTC StrategyV2: https://etherscan.io/address/0x16df857ECD48fcbc25CD66a4b76f
 
 zs-AMPL: https://etherscan.io/address/0x78172170DbD084D5EA8c24c60885C755Fc8EFA62
 
-zs-AMPL Strategy: https://etherscan.io/address/0x8004Ea2db8D91489E261FAC0819992596Cf69077
-
 FlashManager Strategy: https://etherscan.io/address/0x9557ef0975e8e921c822a8b81032e695d7ff328c
 
 ### Retired Contracts
+zs-AMPL Strategy: https://etherscan.io/address/0x8004Ea2db8D91489E261FAC0819992596Cf69077
+
 zs-tsBTC StrategyV1: https://etherscan.io/address/0xbA8FD5460f7425197F6f38a51e41E4F812824024
 
 zs-UST StrategyV3: https://etherscan.io/address/0x4d7Ef4fbC8eD5d30A3f0b8bA282A993Dd6843BfD
