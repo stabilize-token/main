@@ -18,6 +18,8 @@ Gas Treasury: https://etherscan.io/address/0xE05D2A6b97dce9B8e59ad074c2E4b6D51a2
 
 STBZ Staking Pool: https://etherscan.io/address/0x8c17bE13e034f7fa2a6496bC83B6010be6305204
 
+Migration Contract: https://etherscan.io/address/0x8A24af65D8b63EDf138D8C85f83EA3Eb6E2BD3c0
+
 ### Strategy Contracts
 zs-USD: https://etherscan.io/address/0x8e769EAA31375D13a1247dE1e64987c28Bed987E
 
