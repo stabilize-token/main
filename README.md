@@ -23,10 +23,6 @@ Migration Contract: https://etherscan.io/address/0x8A24af65D8b63EDf138D8C85f83EA
 ### Strategy Contracts
 zs-USD: https://etherscan.io/address/0x8e769EAA31375D13a1247dE1e64987c28Bed987E
 
-zs-USD StrategyV5: https://etherscan.io/address/0x6EBa59a25F1Fe1C987E904884c199B541499672c
-
-zs-USD InterestVault: https://etherscan.io/address/0x8319006f50D11C9400E7C446c9F8192a6c27da6e
-
 zs-UST: https://etherscan.io/address/0x27E8d93D27f55130B1870d8EF2BCE847C08A8191
 
 zs-UST StrategyV4: https://etherscan.io/address/0x8DdC45f84078D8b54E26ACE35449E65476b3723B
@@ -52,6 +48,10 @@ zs-AMPL: https://etherscan.io/address/0x78172170DbD084D5EA8c24c60885C755Fc8EFA62
 FlashManager Strategy: https://etherscan.io/address/0x9557ef0975e8e921c822a8b81032e695d7ff328c
 
 ### Retired Contracts
+zs-USD StrategyV5: https://etherscan.io/address/0x6EBa59a25F1Fe1C987E904884c199B541499672c
+
+zs-USD InterestVault: https://etherscan.io/address/0x8319006f50D11C9400E7C446c9F8192a6c27da6e
+
 zs-AMPL Strategy: https://etherscan.io/address/0x8004Ea2db8D91489E261FAC0819992596Cf69077
 
 zs-tsBTC StrategyV1: https://etherscan.io/address/0xbA8FD5460f7425197F6f38a51e41E4F812824024
