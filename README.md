@@ -14,7 +14,7 @@ Pool Rebalancer: https://etherscan.io/address/0x2F7b01d71bD2b8c3CcAA47d29CB4C504
 
 Treasury Furnace: https://etherscan.io/address/0x42Cbe17335ef8d52F8d1e0a261eA2e78E829C56e
 
-Gas Treasury: https://etherscan.io/address/0xE05D2A6b97dce9B8e59ad074c2E4b6D51a24aAe3
+Developers Treasury: https://etherscan.io/address/0xE05D2A6b97dce9B8e59ad074c2E4b6D51a24aAe3
 
 STBZ Staking Pool: https://etherscan.io/address/0x8c17bE13e034f7fa2a6496bC83B6010be6305204
 
