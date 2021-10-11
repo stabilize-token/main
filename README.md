@@ -133,4 +133,4 @@ za-DAI: https://etherscan.io/address/0x38ea93D59cc7B83DA7847E9a22eACDDc0751Af77
 za-sUSD: https://etherscan.io/address/0x2f81fcd5222e0F183Dc2F70d55f4c84fcB59BF4C
 
 ## Read our Medium:
-Medium: https://medium.com/@stabilize
+Medium: https://stabilize.medium.com/
