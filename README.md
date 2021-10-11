@@ -1,6 +1,8 @@
 # Stabilize Protocol
 Protocol that promotes stablecoins to stay on their peg with reward incentives. Stablecoins do not need to be tied to liquidity pools therefore limiting IL risk. Stabilize now features pools that earn interest on underlying assets.
 
+The protocol has been moved to second layer Arbitrum One due to gas fees: https://github.com/stabilize-token/arbitrum-contracts
+
 ## Find the contracts at:
 Governance Calculator: https://etherscan.io/address/0x4B578C3E5b5281B16FE3b035E03CBBd46B299e00
 
