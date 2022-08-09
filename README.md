@@ -74,8 +74,6 @@ zs-FRAX: https://etherscan.io/address/0xD469BB16116443F389EfEF407D73EF7Ab0Ad96Ce
 
 zs-FRAX Strategy: https://etherscan.io/address/0xD3db642AE29C5DC7bFcEBe67Fe3c8245d561d006
 
-StabilizeTornadoProxyV2: https://etherscan.io/address/0xcA4530692F73110e5E15E2D07049bcFd5Adbe0de
-
 zs-XUSD: https://etherscan.io/address/0xc79376E4E60c4f83c933e0E0cD5B87Fb1c9848F7
 
 zs-XUSD Withdrawer: https://etherscan.io/address/0x95c4Ac982896440213a8070074F773ef00056984
