@@ -734,5 +734,5 @@ contract StabilizeGasTreasury is Ownable {
         IERC20 weth = IERC20(wethAddress);
         weth.safeTransfer(governance(), amount);
     }
-    // --------------------
+    // -------------------
 }
